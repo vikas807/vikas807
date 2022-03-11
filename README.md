@@ -2,7 +2,7 @@
 
 - Name: Vikas Pal
 - hosts: GitHub
-  become: true
+- become: true
     - Cloud platform:
         - AWS Cloud
     - Operating Systems:
