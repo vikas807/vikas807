@@ -1,4 +1,3 @@
-[![MasterHead](https://media.jfrog.com/wp-content/uploads/2019/01/20131244/JFrogChinaDevOps_Banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vikas Pal</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
