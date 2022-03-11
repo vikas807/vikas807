@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**vikas807/vikas807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Name: Vikas Pal
+  hosts: GitHub
+  become: true
+    - Cloud platform:
+        - AWS Cloud
+    - Operating Systems:
+        - RedHat Linux Release 6.x, 7.x
+        - Ubuntu 18.04, 20.04
+        - CentOS 6.x, 7.x
+    - Scripting Language
+        - Python    
+    - Infrastucture As a Code:
+        - Ansible
+        - AWS CloudFormation
+    - Software Provisioning/Configuration Management:
+        - Ansible
+    - Source Code Management/Version Control:
+        - Git (GitHub)
+    - Continuous Integeration/Continuous Deployment:
+        - Jenkins
+        - AWS CodePipeline
+    - Containerization:
+        - Docker
+        - K8's
+    - Project Management Tool:
+        - GitHub
+    - Monitoring Tools:
+        - AWS CloudWatch
+        - Nagios
