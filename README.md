@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 - Name: Vikas Pal
   hosts: GitHub
   become: true
@@ -9,9 +8,7 @@
     - Operating Systems:
         - RedHat Linux Release 6.x, 7.x
         - Ubuntu 18.04, 20.04
-        - CentOS 6.x, 7.x
-    - Scripting Language
-        - Python    
+        - CentOS 6.x, 7.x 
     - Infrastucture As a Code:
         - Ansible
         - AWS CloudFormation
@@ -30,3 +27,4 @@
     - Monitoring Tools:
         - AWS CloudWatch
         - Nagios
+  
