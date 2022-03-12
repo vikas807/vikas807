@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas807&label=Profile%20views&color=0e75b6&style=flat" alt="vikas807" /> </p>
 
-- 👨‍💻 Portfolio link [https://vpal807.wixsite.com/vikas-pal](https://vpal807.wixsite.com/vikas-pal)
+- 👨‍💻 Portfolio link - <a href="https://vpal807.wixsite.com/vikas-pal"><b>www.vikaspal.com</b></a>
 
-- 📫 How to reach me **vpal807@gmail.com**
+- 📫 How to reach me - **vpal807@gmail.com**
 - <hr>
 
 <h3 align="left">Connect with me:</h3>
