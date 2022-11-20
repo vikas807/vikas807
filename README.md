@@ -18,8 +18,6 @@
 <a href="https://www.linkedin.com/in/vikas-pal-a7a0a8226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-pal-a7a0a8226/" height="30" width="40" /></a>
 </p>
 <br>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2ae6d47c-1e12-4445-aa26-184e215a7326" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <br>
