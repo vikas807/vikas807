@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Pal</h1>
-<img align="center" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vikas807&label=Profile%20views&color=0e75b6&style=flat" alt="vikas807" /> </p>
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas807&label=Profile%20views&color=0e75b6&style=flat" alt="vikas807" /> </p>
 
 - 👨‍💻 Portfolio link - <a href="https://vpal807.wixsite.com/vikas-pal"><b>www.vikaspal.com</b></a>
 
@@ -13,7 +13,8 @@
 <a href="https://www.linkedin.com/in/vikas-pal-a7a0a8226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-pal-a7a0a8226/" height="30" width="40" /></a>
 </p>
 <br>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2ae6d47c-1e12-4445-aa26-184e215a7326" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <br>
