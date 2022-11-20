@@ -1,4 +1,16 @@
+
+<style>
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Vikas Pal</h1>
+<div class="grid">
+  <div></div>
+  <img align="center" alt="Coding" width="200" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
+  <div></div>
+</div>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas807&label=Profile%20views&color=0e75b6&style=flat" alt="vikas807" /> </p>
