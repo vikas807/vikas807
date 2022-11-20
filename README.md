@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Pal</h1>
 <p align="center">
   
-  <img align="center"  alt="Coding" width="200" src="https://www.credly.com/badges/2ae6d47c-1e12-4445-aa26-184e215a7326/public_url">
+  <img align="center"  alt="Coding" width="200" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
   
 </p>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
