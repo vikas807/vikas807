@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Pal</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2ae6d47c-1e12-4445-aa26-184e215a7326" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas807&label=Profile%20views&color=0e75b6&style=flat" alt="vikas807" /> </p>
 
 - 👨‍💻 Portfolio link - <a href="https://vpal807.wixsite.com/vikas-pal"><b>www.vikaspal.com</b></a>
