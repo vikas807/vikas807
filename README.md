@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Pal</h1>
 <p align="center">
   
-  <img align="center"  alt="Coding" width="200" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
+  <img align="center"  alt="Coding" width="200" src="https://www.credly.com/badges/2ae6d47c-1e12-4445-aa26-184e215a7326/public_url">
   
 </p>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
